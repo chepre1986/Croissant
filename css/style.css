@@ -28,4 +28,5 @@ p {
 }
 img {
     max-width: 600px;
+    display: block;
 }
